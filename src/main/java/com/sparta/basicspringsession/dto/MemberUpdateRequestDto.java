@@ -2,9 +2,7 @@ package com.sparta.basicspringsession.dto;
 
 import lombok.Getter;
 
-
 @Getter
-public class MemberSaveRequestDto {
+public class MemberUpdateRequestDto {
     private String name;
-
 }
